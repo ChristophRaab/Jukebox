@@ -43,12 +43,12 @@ Die Jukebox ist über die App und im Browser über https://mozart.fiw.fhws.de er
 
 ### Musikinfo und Player 
 Über das Icon erhalten Sie weitere Informationen zum ausgewählten Musikstück: 
-<img src="Metainfo_Player.png" height="276px" width="220px">
+<img src="Metainfo_Player.png" width="276px" height="220px">
 
 Sie können das Werk auch anhören: entweder in voller Länger, falls Sie in Ihrem Browser bei Spotify angemeldet sind, ansonsten nur einen kurzen Ausschnitt.
 
 ### Auswahl KI und Beschriftung
-<img src="KIAuswahl.jpeg"  height="291px" width="226px">
+<img src="KIAuswahl.jpeg"  width="291px" height="226px">
 
 **Rot markiert**: Sie können in der App auswählen von welchem KI-Typ Sie die Sichtweise se-hen möchten. Dabei können Sie zwischen den Typen unüberwachte und überwachte KI ent-scheiden. 
 
@@ -58,7 +58,7 @@ Sie können das Werk auch anhören: entweder in voller Länger, falls Sie in Ihr
 
 ### Werkzeuge und Suche 
 Bei der Auswahl eines Musikstücks erscheint außerdem eine Werkzeugleiste: 
-<img src="Werkzeuge.png" height="288px" width="481px"> 
+<img src="Werkzeuge.png" width="288px" height="481px"> 
 
 
 **Türkis markiert**: Die App selektiert nach der Auswahl eines Liedes automatisch die nächsten Lieder und markiert sie zusätzlich in der Hauptsicht. Diese Selektion kann auch isoliert betrach-tet werden und somit nur diese Lieder in der Hauptsicht angezeigt werden. 
